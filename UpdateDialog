@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "Msg": "Update Available!
+  "Message": "Update Available!
 
 What's new:
 • Premium unlock
@@ -10,5 +10,5 @@ What's new:
 • And many more..
 
 Thank you for using our app!",
-  "downloadLink": "https://t.me/XNOVACOMMUNITY"
+  "Link": "https://t.me/XNOVACOMMUNITY"
   }
